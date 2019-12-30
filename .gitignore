@@ -12,3 +12,13 @@
 *.swp
 *.swo
 
+# KWS files
+Deployment/kws_stm32/LCD_DISCO_F746NG/*
+Deployment/kws_stm32/BSP_DISCO_F746NG/*
+Deployment/kws_stm32/AUDIO_DISCO_F746NG/
+Deployment/kws_stm32/.temp/
+Deployment/kws_stm32/.git
+Deployment/kws_stm32/.mbed
+Deployment/kws_stm32/mbed_settings.py
+
+
